@@ -1,0 +1,21 @@
+# Rates
+EXP = 1
+DROP = 1
+MESO = 1
+BOSS_DROP = 1
+PET_EXP = 1
+MULTI_LEVEL = False
+LVL_CAP = 200
+
+
+# Others
+GM_ITEMS = False
+GODLY_ITEMS = False
+GODLY_ITEMS_RATE= 1
+ITEM_STAT_MULTIPLIER = 1
+DROP_UNDROPPABLE = False
+MORE_THAN_ONE = False
+
+AB = False
+CS = False
+MT = False
